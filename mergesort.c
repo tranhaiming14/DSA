@@ -76,7 +76,7 @@ void printArray(int arr[], int size) {
 
 // Main function to test the merge sort algorithm
 int main() {
-    int arr[] = {12, 11, 13, 5, 6, 7};
+    int arr[] = {12, 11, 13, 5, 6, 7, 9, 10, 33, 44};
     int arr_size = sizeof(arr) / sizeof(arr[0]);
 
     printf("Given array is \n");
